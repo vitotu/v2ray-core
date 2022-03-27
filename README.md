@@ -16,6 +16,8 @@
 - [Documentation](https://www.v2fly.org) and [Newcomer's Instructions](https://www.v2fly.org/guide/start.html)
 - Welcome to translate V2Ray documents via [Transifex](https://www.transifex.com/v2fly/public/)
 
+[中文使用手册](https://selierlin.github.io/v2ray/basic/vmess.html)
+
 ## Packaging Status
 
 > If you are willing to package V2Ray for other distros/platforms, please let us know or seek for help via [GitHub issues](https://github.com/v2fly/v2ray-core/issues).
